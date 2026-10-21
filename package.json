@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "three": "0.185.0"
+  },
+  "type": "module",
+  "scripts": {
+    "check": "node check-models.mjs"
+  }
+}
